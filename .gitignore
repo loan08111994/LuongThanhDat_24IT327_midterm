@@ -1,0 +1,11 @@
+# bo qua file bien dich
+*.o
+myls
+ls
+a.out
+*.out
+
+# file tam
+*~
+*.swp
+.DS_Store
