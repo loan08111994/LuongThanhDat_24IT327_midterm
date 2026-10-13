@@ -2,7 +2,7 @@
 
 Họ tên: Lương Thành Đạt
 MSSV: 24IT327
-Repo: https://github.com/LuongThanhDat/LuongThanhDat_24IT327_midterm
+Repo: https://github.com/dat396/LuongThanhDat_24IT327_midterm
 
 ## Giới thiệu
 
